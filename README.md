@@ -6,6 +6,7 @@ A high-performance, visually stunning portfolio website designed for a **Data An
 ![Tech](https://img.shields.io/badge/Made%20with-HTML%20%2F%20CSS%20%2F%20JS-7c3aed?style=for-the-badge)
 
 ---
+<img width="1040" height="582" alt="image" src="https://github.com/user-attachments/assets/261a7d0d-6423-4654-85b3-7e280c76057b" />
 
 ## 🛠️ Tech Stack & Features
 
