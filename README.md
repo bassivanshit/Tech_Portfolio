@@ -1,6 +1,6 @@
-# 🚀 Futuristic Cyberpunk Portfolio — Vanshit Bassi
+# 🚀  Portfolio — Tech_with_Vanshit
 
-A high-performance, visually stunning portfolio website designed for a **Data Analyst & ML Engineer** persona. This project features a "Scifi-Data" aesthetic with custom SVG animations, Three.js backgrounds, and a glitch-themed UI.
+A high-performance, visually stunning portfolio website designed for a **Data Analyst & ML Engineer** persona. This project features a "Scifi-Data" aesthetic with custom SVG animations, Three.js backgrounds, and a glitch-themed UI. (https://vanshit-portfolio.netlify.app/)
 
 ![Portfolio Preview](https://img.shields.io/badge/UI-Cyberpunk-00d4ff?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Made%20with-HTML%20%2F%20CSS%20%2F%20JS-7c3aed?style=for-the-badge)
